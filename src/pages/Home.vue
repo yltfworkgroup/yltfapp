@@ -1,6 +1,6 @@
 <template>
     <div class='mainStyle'>
-    PageHome!
+    PageHome!!!
     </div>
 </template>
 
